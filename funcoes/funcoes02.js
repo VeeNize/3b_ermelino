@@ -21,3 +21,4 @@ const colorir = () => {
 }
 colorir() //execução da Arrow
 
+
